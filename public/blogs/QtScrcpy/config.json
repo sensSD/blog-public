@@ -1,10 +1,10 @@
 {
-  "title": "QtScrcpy中adb的使用 - day2",
+  "title": "QProcess封装adb操作 - day3",
   "tags": [
     "QtScrcpy"
   ],
-  "date": "2026-04-01T14:25",
+  "date": "2026-04-02T18:54",
   "summary": "",
   "hidden": false,
-  "category": "总结"
+  "category": "代码实现"
 }
