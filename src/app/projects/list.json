@@ -1,1 +1,16 @@
-[]
+[
+	{
+		"name": "QtScrcpy",
+		"year": 2026,
+		"image": "blob:https://blog-public-ten.vercel.app/0ba1d43b-788d-4f55-a83f-1f84a0dd70f1",
+		"url": "https://github.com/sensSD/QtScrcpy",
+		"description": "手机投屏电脑，极低延迟，高清画面",
+		"tags": [
+			"Qt",
+			"adb",
+			"ffmeg",
+			"opengl"
+		],
+		"github": "https://github.com/sensSD/QtScrcpy"
+	}
+]
