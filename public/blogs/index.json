@@ -1,5 +1,17 @@
 [
   {
+    "slug": "2026-4-5-1",
+    "title": "软件设计师备考 - 存储管理、文件管理、设备管理",
+    "tags": [
+      "软件设计师",
+      "学习"
+    ],
+    "date": "2026-04-05T09:46",
+    "summary": "",
+    "hidden": false,
+    "category": "总结"
+  },
+  {
     "slug": "QtScrcpy",
     "title": "改用VsCode开发QtScrcpy以及部分改动",
     "tags": [
