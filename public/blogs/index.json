@@ -1,5 +1,14 @@
 [
   {
+    "slug": "algorithm - 1",
+    "title": "算法训练营 - day1（寄存）",
+    "tags": [],
+    "date": "2026-04-13T21:44",
+    "summary": "",
+    "hidden": false,
+    "category": "总结"
+  },
+  {
     "slug": "2026-4-12-1",
     "title": "QtScrcpy中server模块代码实现 - day4、5",
     "tags": [
