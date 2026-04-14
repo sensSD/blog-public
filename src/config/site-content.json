@@ -7,19 +7,18 @@
 	"theme": {
 		"colorBrand": "#95ECED",
 		"colorPrimary": "#000000",
-		"colorSecondary": "#7b888e",
+		"colorSecondary": "#576064d3",
 		"colorBrandSecondary": "#1fc9e7",
 		"colorBg": "#eeeeee",
 		"colorBorder": "#ffffff",
-		"colorCard": "#ffffff66",
+		"colorCard": "#ffffff50",
 		"colorArticle": "#ffffffcc"
 	},
 	"backgroundColors": [
 		"#c6b0e6",
-		"#B47667",
 		"#B2C9FE",
-		"#D0CADC",
-		"#A186ED"
+		"#d0cadc",
+		"#a186ed"
 	],
 	"artImages": [
 		{
