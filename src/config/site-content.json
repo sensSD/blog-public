@@ -5,17 +5,21 @@
 		"username": "Sens"
 	},
 	"theme": {
-		"colorBrand": "#944AF8",
-		"colorPrimary": "#ffffff",
-		"colorSecondary": "#ffffff",
-		"colorBrandSecondary": "#51d0b9",
-		"colorBg": "#5740ba",
-		"colorBorder": "#928f8f5e",
-		"colorCard": "#ffffff29",
-		"colorArticle": "#2e3036c0"
+		"colorBrand": "#95ECED",
+		"colorPrimary": "#334f52",
+		"colorSecondary": "#7b888e",
+		"colorBrandSecondary": "#1fc9e7",
+		"colorBg": "#eeeeee",
+		"colorBorder": "#ffffff",
+		"colorCard": "#ffffff66",
+		"colorArticle": "#ffffffcc"
 	},
 	"backgroundColors": [
-		"#3a2463"
+		"#c6b0e6",
+		"#B47667",
+		"#B2C9FE",
+		"#D0CADC",
+		"#A186ED"
 	],
 	"artImages": [
 		{
