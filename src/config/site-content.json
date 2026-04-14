@@ -5,7 +5,7 @@
 		"username": "Sens"
 	},
 	"theme": {
-		"colorBrand": "#2a48f3",
+		"colorBrand": "#944AF8",
 		"colorPrimary": "#e6e8e8",
 		"colorSecondary": "#acadae",
 		"colorBrandSecondary": "#51d0b9",
@@ -15,7 +15,7 @@
 		"colorArticle": "#6f6f6f33"
 	},
 	"backgroundColors": [
-		"#16007b"
+		"#3a2463"
 	],
 	"artImages": [
 		{
