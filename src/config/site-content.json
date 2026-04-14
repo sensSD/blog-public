@@ -10,9 +10,9 @@
 		"colorSecondary": "#ffffff",
 		"colorBrandSecondary": "#51d0b9",
 		"colorBg": "#5740ba",
-		"colorBorder": "#8a8a8a5e",
+		"colorBorder": "#928f8f5e",
 		"colorCard": "#ffffff29",
-		"colorArticle": "#6f6f6f33"
+		"colorArticle": "#2e3036c0"
 	},
 	"backgroundColors": [
 		"#3a2463"
