@@ -6,12 +6,12 @@
 	},
 	"theme": {
 		"colorBrand": "#944AF8",
-		"colorPrimary": "#e6e8e8",
-		"colorSecondary": "#acadae",
+		"colorPrimary": "#ffffff",
+		"colorSecondary": "#ffffff",
 		"colorBrandSecondary": "#51d0b9",
-		"colorBg": "#0a051f",
+		"colorBg": "#5740ba",
 		"colorBorder": "#8a8a8a5e",
-		"colorCard": "#ffffff0e",
+		"colorCard": "#ffffff29",
 		"colorArticle": "#6f6f6f33"
 	},
 	"backgroundColors": [
@@ -31,7 +31,7 @@
 			"url": "/images/art/29ed026f724fc063.jpg"
 		}
 	],
-	"currentArtImageId": "29ed026f724fc063",
+	"currentArtImageId": "cat",
 	"backgroundImages": [
 		{
 			"id": "",
@@ -42,7 +42,7 @@
 			"url": "/images/background/29ed026f724fc063.jpg"
 		}
 	],
-	"currentBackgroundImageId": "",
+	"currentBackgroundImageId": "29ed026f724fc063",
 	"socialButtons": [
 		{
 			"id": "github",
