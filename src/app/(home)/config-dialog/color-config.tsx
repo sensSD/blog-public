@@ -13,7 +13,7 @@ interface ColorConfigProps {
 
 const DEFAULT_THEME_COLORS = siteContent.theme
 
-输入 ColorPreset = {
+type ColorPreset = {
 	name: string
 	theme: Partial<SiteContent['theme']>
 	backgroundColors: string[]
