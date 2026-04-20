@@ -1,5 +1,14 @@
 [
   {
+    "slug": "day8",
+    "title": "算法训练营 - day8",
+    "tags": [],
+    "date": "2026-04-20T23:39",
+    "summary": "",
+    "hidden": false,
+    "category": ""
+  },
+  {
     "slug": "2026-4-20-1",
     "title": "什么是RAII模式，以及更多的高科技？！",
     "tags": [
