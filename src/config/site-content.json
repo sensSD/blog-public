@@ -46,9 +46,9 @@
 	"currentBackgroundImageId": "29ed026f724fc063",
 	"socialButtons": [
 		{
-			"id": "button-1776827228129",
+			"id": "button-1776827423661",
 			"type": "juejin",
-			"value": "",
+			"value": "https://juejin.cn/",
 			"label": "",
 			"order": 1
 		},
