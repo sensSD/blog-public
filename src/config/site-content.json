@@ -46,10 +46,10 @@
 	"currentBackgroundImageId": "29ed026f724fc063",
 	"socialButtons": [
 		{
-			"id": "github",
-			"type": "github",
-			"value": "https://github.com/sensSD",
-			"label": "Github",
+			"id": "button-1776827228129",
+			"type": "juejin",
+			"value": "",
+			"label": "",
 			"order": 1
 		},
 		{
@@ -58,6 +58,13 @@
 			"value": "sensmmd@gmail.com",
 			"label": "",
 			"order": 2
+		},
+		{
+			"id": "github",
+			"type": "github",
+			"value": "https://github.com/sensSD",
+			"label": "Github",
+			"order": 3
 		}
 	],
 	"clockShowSeconds": false,
